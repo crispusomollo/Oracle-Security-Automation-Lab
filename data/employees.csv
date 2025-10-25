@@ -1,0 +1,4 @@
+EMP_ID,EMP_NAME,JOB_TITLE,SALARY,DEPT_ID
+1,John Doe,Developer,4000,1
+2,Jane Smith,DBA,6000,2
+3,Alex Carter,Analyst,5000,3

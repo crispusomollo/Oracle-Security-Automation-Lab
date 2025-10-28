@@ -1,7 +1,7 @@
 # 🛡️ Oracle Security Automation Lab
 
 A **hands-on, automation-driven Oracle Database Security Portfolio** showcasing how to secure, audit, and automate Oracle environments using **Bash, SQL, and Python**.  
-Designed for DBAs and learners who want to understand real-world Oracle security administration on **Oracle Linux 23 AI Free** and **Oracle Database 23c Free**.
+Designed for DBAs and learners who want to understand real-world Oracle security administration on **Oracle Linux** and **Oracle Database 23c**.
 
 ---
 
@@ -54,7 +54,7 @@ Designed for DBAs and learners who want to understand real-world Oracle security
 
 ## 🚀 Quick Start
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/crispusomollo/oracle-security-automation-lab.git
 cd oracle-security-automation-lab/setup

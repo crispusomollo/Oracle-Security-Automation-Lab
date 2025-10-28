@@ -4,7 +4,7 @@ ORACLE_PASS="oracle"
 ORACLE_SID="ORCLCDB"
 
 sqlplus -S $ORACLE_USER/$ORACLE_PASS@$ORACLE_SID <<EOF
-@module02.sql
+@sql/privilege.sql
 EXIT
 EOF
 

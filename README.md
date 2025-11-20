@@ -58,4 +58,4 @@ Designed for DBAs and learners who want to understand real-world Oracle security
 ```bash
 git clone https://github.com/crispusomollo/oracle-security-automation-lab.git
 cd oracle-security-automation-lab/setup
-
+```
